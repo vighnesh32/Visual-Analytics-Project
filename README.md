@@ -4,6 +4,6 @@
 2. project.ipynb - This file contains the code for exploratory data analysis, data visualization and machine learning algorithms.
 3. report.pdf - Project report.
 
-#### Sequence of running the codes :
+#### Sequence for running the codes :
 1. Open and run the file project.ipynb for visualization, training and testing the models.
 
